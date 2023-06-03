@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "566512400109",
+    "firebase_url": "https://smarthome-6f0f0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "smarthome-6f0f0",
+    "storage_bucket": "smarthome-6f0f0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566512400109:android:fadc652073527a97f0bee4",
+        "android_client_info": {
+          "package_name": "com.birigu.smarthomeuione"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566512400109-fg3dp8h5bungmg6hccng6nm6moem76q9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.birigu.smarthomeuione",
+            "certificate_hash": "036a2b0d32fe4ea332315cb73c12b83c6a073098"
+          }
+        },
+        {
+          "client_id": "566512400109-7qkgr4p6n9p2d08023g7n8f2e65ck8o4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw7ZlpxyxmSYaKdpPQ8jvbiMv3B-Bb7TE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566512400109-7qkgr4p6n9p2d08023g7n8f2e65ck8o4.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "566512400109-2cvh7nsmh1d74biravdbns3288224932.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.birigu.smarthomeuione"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

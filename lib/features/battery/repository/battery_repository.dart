@@ -1,0 +1,3 @@
+class BatteryRepository {
+  BatteryRepository();
+}
